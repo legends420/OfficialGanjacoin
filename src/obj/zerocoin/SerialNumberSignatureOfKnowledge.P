@@ -1,0 +1,35 @@
+obj/zerocoin/SerialNumberSignatureOfKnowledge.o: \
+ zerocoin/SerialNumberSignatureOfKnowledge.cpp zerocoin/Zerocoin.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../serialize.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../allocators.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../version.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../clientversion.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../bignum.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../serialize.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../uint256.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../util.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../netbase.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../compat.h \
+ zerocoin/Params.h zerocoin/Coin.h zerocoin/Commitment.h \
+ zerocoin/Accumulator.h zerocoin/AccumulatorProofOfKnowledge.h \
+ zerocoin/CoinSpend.h zerocoin/SerialNumberSignatureOfKnowledge.h \
+ zerocoin/SpendMetaData.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../uint256.h \
+ zerocoin/ParamGeneration.h
+ zerocoin/SerialNumberSignatureOfKnowledge.cpp zerocoin/Zerocoin.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../serialize.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../allocators.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../version.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../clientversion.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../bignum.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../serialize.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../uint256.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../util.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../netbase.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../compat.h :
+ zerocoin/Params.h zerocoin/Coin.h zerocoin/Commitment.h :
+ zerocoin/Accumulator.h zerocoin/AccumulatorProofOfKnowledge.h :
+ zerocoin/CoinSpend.h zerocoin/SerialNumberSignatureOfKnowledge.h :
+ zerocoin/SpendMetaData.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../uint256.h :
+ zerocoin/ParamGeneration.h :

@@ -1,0 +1,38 @@
+obj/checkpoints.o: checkpoints.cpp checkpoints.h net.h mruset.h netbase.h \
+ serialize.h allocators.h version.h clientversion.h compat.h protocol.h \
+ uint256.h addrman.h util.h sync.h threadsafety.h txdb.h txdb-leveldb.h \
+ main.h bignum.h script.h keystore.h crypter.h key.h scrypt.h \
+ zerocoin/Zerocoin.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../serialize.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../bignum.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../util.h zerocoin/Params.h \
+ zerocoin/Coin.h zerocoin/Commitment.h zerocoin/Accumulator.h \
+ zerocoin/AccumulatorProofOfKnowledge.h zerocoin/CoinSpend.h \
+ zerocoin/SerialNumberSignatureOfKnowledge.h zerocoin/SpendMetaData.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../uint256.h \
+ zerocoin/ParamGeneration.h \
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/db.h \
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/iterator.h \
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/slice.h \
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/status.h \
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/options.h \
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/write_batch.h
+checkpoints.cpp checkpoints.h net.h mruset.h netbase.h :
+ serialize.h allocators.h version.h clientversion.h compat.h protocol.h :
+ uint256.h addrman.h util.h sync.h threadsafety.h txdb.h txdb-leveldb.h :
+ main.h bignum.h script.h keystore.h crypter.h key.h scrypt.h :
+ zerocoin/Zerocoin.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../serialize.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../bignum.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../util.h zerocoin/Params.h :
+ zerocoin/Coin.h zerocoin/Commitment.h zerocoin/Accumulator.h :
+ zerocoin/AccumulatorProofOfKnowledge.h zerocoin/CoinSpend.h :
+ zerocoin/SerialNumberSignatureOfKnowledge.h zerocoin/SpendMetaData.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../uint256.h :
+ zerocoin/ParamGeneration.h :
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/db.h :
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/iterator.h :
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/slice.h :
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/status.h :
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/options.h :
+ /home/alex/Desktop/GC/src/leveldb/include/leveldb/write_batch.h :

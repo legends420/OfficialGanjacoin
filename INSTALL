@@ -1,0 +1,9 @@
+Building Ganjacoin
+
+See doc/readme-qt.rst for instructions on building Ganjacoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ganjacoin.
+
+See doc/build-*.txt for instructions on building ganjacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ganjacoin.

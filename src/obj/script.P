@@ -1,0 +1,24 @@
+obj/script.o: script.cpp script.h keystore.h crypter.h allocators.h key.h \
+ serialize.h version.h clientversion.h uint256.h util.h netbase.h \
+ compat.h sync.h threadsafety.h bignum.h main.h net.h mruset.h protocol.h \
+ addrman.h scrypt.h zerocoin/Zerocoin.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../serialize.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../bignum.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../util.h zerocoin/Params.h \
+ zerocoin/Coin.h zerocoin/Commitment.h zerocoin/Accumulator.h \
+ zerocoin/AccumulatorProofOfKnowledge.h zerocoin/CoinSpend.h \
+ zerocoin/SerialNumberSignatureOfKnowledge.h zerocoin/SpendMetaData.h \
+ /home/alex/Desktop/GC/src/leveldb/include/../../uint256.h \
+ zerocoin/ParamGeneration.h
+script.cpp script.h keystore.h crypter.h allocators.h key.h :
+ serialize.h version.h clientversion.h uint256.h util.h netbase.h :
+ compat.h sync.h threadsafety.h bignum.h main.h net.h mruset.h protocol.h :
+ addrman.h scrypt.h zerocoin/Zerocoin.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../serialize.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../bignum.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../util.h zerocoin/Params.h :
+ zerocoin/Coin.h zerocoin/Commitment.h zerocoin/Accumulator.h :
+ zerocoin/AccumulatorProofOfKnowledge.h zerocoin/CoinSpend.h :
+ zerocoin/SerialNumberSignatureOfKnowledge.h zerocoin/SpendMetaData.h :
+ /home/alex/Desktop/GC/src/leveldb/include/../../uint256.h :
+ zerocoin/ParamGeneration.h :
